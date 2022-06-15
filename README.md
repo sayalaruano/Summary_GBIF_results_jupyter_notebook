@@ -16,4 +16,4 @@ This jupyter notebook is available with the following button:
 
 ## Acknowledgments
 
-I obtained the trick for launching the jupyter notebook in presentation mode with RISE from this [GitHUb repo](https://github.com/binder-examples/jupyter-rise) of the Binder's team.
+I obtained the trick for launching the jupyter notebook in presentation mode with RISE from this [GitHub repo](https://github.com/binder-examples/jupyter-rise) of the Binder's team.
