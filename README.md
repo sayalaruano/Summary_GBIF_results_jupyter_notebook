@@ -10,7 +10,9 @@ To autmomatically launch the presentation when it's open, you should add the `au
         }
 ```
 
-This jupyter notebook is available with the following button: [![Notebook hosted on Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sayalaruano/Summary_GBIF_results_jupyter_notebook/bbbf3602f89b443dca73677456e4c39c207da4d9?filepath=Presentation_15062022_meeting.ipynb).
+This jupyter notebook is available with the following button: 
+
+[![Binder](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/sayalaruano/Summary_GBIF_results_jupyter_notebook/bbbf3602f89b443dca73677456e4c39c207da4d9?filepath=Presentation_15062022_meeting.ipynb).
 
 ## Acknowledgments
 
